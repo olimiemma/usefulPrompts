@@ -1,0 +1,19 @@
+Few things
+
+>>> Install complete. Run "ollama" from the command line.
+
+WARNING: No NVIDIA/AMD GPU detected. Ollama will run in CPU-only mode.
+
+-------------------------------------------------------------------------
+
+(mistral-env) legend@legend-Latitude-7410:~$ Couldn't find '/home/legend/.ollama/id_ed25519'. Generating new private key.
+
+Your new public key is: 
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFLO0SZDOi5dB074gE99IG6RAGflvzG/SwcYq7W5hwpN
+
+Error: listen tcp 127.0.0.1:11434: bind: address already in use
+
+--------------------------------------------------------
+
+
